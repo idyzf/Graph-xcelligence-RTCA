@@ -1,6 +1,5 @@
 library(RTCA)
 library(openxlsx)
-
 rm(list=ls())
 
 ###CORES FIXAS A172 -> MEDIUM BLUE
